@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @buboh
-- 👀 I’m interested in Data Science, JavaScript, Python, Web, Bicycles, Raspberry Pi, Vector Graphics, AxiDraw and Food
+- 👀 I’m interested in Svelte, Web Dev, JavaScript, TypeScript, Data Science, Bicycles, Raspberry Pi, Vector Graphics, AxiDraw and Food
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on protecting the environment
 - 📫 How to reach me - buboh@gmx.at
